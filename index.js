@@ -7,6 +7,6 @@ function whisper(string) {
 }
 
 function sayHiToGrandma(string) {
-  if 
+  if (string === "hello")
   console.log("I can't hear you!");
 }
