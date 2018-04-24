@@ -7,4 +7,6 @@ function whisper(string) {
 }
 
 function logShout(string) {
+  const spy = grandma
+  
 }
